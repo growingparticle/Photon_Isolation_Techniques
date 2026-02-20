@@ -9,7 +9,7 @@ Distinguishing prompt photons from background (such as $\pi \to \gamma \gamma$ d
 This repository contains the numerical work used to:
 - Analyze the differential cross-section for single quark-to-photon branching.
 - Validate the equivalence between Soft Drop and Frixione parameters ($z_{cut} = \epsilon_{\gamma}$ and $\beta = 2n$)
-- Recover the QED splitting function P(z) from isolated photon subjets.
-- Calculate the necessary angular cut-off (θmin​) to suppress neutral pion backgrounds.
+- Recover the QED splitting function $P(z)$ from isolated photon subjets.
+- Calculate the necessary angular cut-off ($\theta_{min}$​) to suppress neutral pion backgrounds.
 
     
