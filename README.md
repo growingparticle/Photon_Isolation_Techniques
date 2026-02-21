@@ -40,6 +40,6 @@ This notebook is designed to be a user-friendly sandbox. You can produce new res
 
 - **Factorization Validation (Figure 6):** Play with the cone radius $R_0$, the minimum resolution angle $θ_ {min}$​, and the soft drop threshold $z_cut$​ to check if the Monte Carlo integration remains proportional to the theoretical QED splitting function $P(z)$.
 
-- **Background Kinematics (Figure 7):**Examine the $\pi^0 \to \gamma \gamma$ background by focusing the pion energy and detector granularity limits and consider how other neutral meson backgrounds (like the $\eta$ meson) might behave under similar angular cut-offs.
+- **Background Kinematics (Figure 7):** Examine the $\pi^0 \to \gamma \gamma$ background by focusing the pion energy and detector granularity limits and consider how other neutral meson backgrounds (like the $\eta$ meson) might behave under similar angular cut-offs.
 
 
