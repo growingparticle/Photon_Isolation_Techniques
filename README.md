@@ -42,4 +42,15 @@ This notebook is designed to be a user-friendly sandbox. You can produce new res
 
 - **Background Kinematics (Figure 7):** Examine the $\pi^0 \to \gamma \gamma$ background by focusing the pion energy and detector granularity limits and consider how other neutral meson backgrounds (like the $\eta$ meson) might behave under similar angular cut-offs.
 
+## Contact
+If you have any questions or suggestions regarding the implementation or the numerical results of this study, feel free to reach out.
+- Author: Mehmet Ehliz
+- LinkedIn: https://www.linkedin.com/in/ehliz/
+- Email: imi.ehliz@gmail.com
+
+
+
+
+
+
 
