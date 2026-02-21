@@ -12,4 +12,20 @@ This repository contains the numerical work used to:
 - Recover the QED splitting function $P(z)$ from isolated photon subjets.
 - Calculate the necessary angular cut-off ($\theta_{min}$​) to suppress neutral pion backgrounds.
 
-    
+## Methodology & Numerical Implementation
+I use numerical integration and 3D surface mapping to visualize the behavior of isolation boundaries.
+- Numerical Analysis: Profiling the energy threshold function $\chi(\delta)$.
+- Monte Carlo Integration: Validating the factorization of the isolated photon subjet distribution.
+- 3D Visualization: Mapping the probability density of soft and collinear emissions.
+
+## Prerequisites
+I design the project to be user-friendly.
+
+Required Libraries:
+```pip install numpy matplotlib scipy```
+
+- **NumPy**: Coordinate grids for cross-section surfaces.
+- **Matplotlib**: 2D profiles and 3D surface plots.
+- **SciPy**: Numerical integration of splitting functions and isolation thresholds
+
+
