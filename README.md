@@ -28,4 +28,18 @@ Required Libraries:
 - **Matplotlib**: 2D profiles and 3D surface plots.
 - **SciPy**: Numerical integration of splitting functions and isolation thresholds
 
+## Usage & Exploration
+All figures in the report are contained within Jupyter Notebook: ```Photon_Isolation_Techniques_Ehliz.ipynb```
+
+This notebook is designed to be a user-friendly sandbox. You can produce new results and test theoretical limits by adjusting the following physical parameters:
+- **Cross-Section Dynamics (Figure 2)**: Play with the energy fraction $z$ and the emission angle $\theta$ between the daughter quark and the photon to visualize how the cross-section diverges in the soft and collinear limits.
+
+- **Isolation Profile Transitions (Figure 4):** Play with the smoothing parameter $n$ to observe the transition from Frixione (Smooth) Cone to the Hard Cone limit ($n \to 0$). You can also play with the cone radius $\delta_{0}$​ to see its effect on the overall isolation tightness.
+
+- **Democratic vs. Static Boundaries (Figure 5):** Play with the photon transverse momentum $p_T$​, the cone radius $R_0$​, and the energy fraction $z_{cut}$ to observe how the Soft Drop boundary differs from Frixione at high angles due to the photon-hadron system's unified treatment.
+
+- **Factorization Validation (Figure 6):** Play with the cone radius $R_0$, the minimum resolution angle $θ_ {min}$​, and the soft drop threshold $z_cut$​ to check if the Monte Carlo integration remains proportional to the theoretical QED splitting function $P(z)$.
+
+- **Background Kinematics (Figure 7):**Examine the $\pi^0 \to \gamma \gamma$ background by focusing the pion energy and detector granularity limits and consider how other neutral meson backgrounds (like the $\eta$ meson) might behave under similar angular cut-offs.
+
 
